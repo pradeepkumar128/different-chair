@@ -1,0 +1,23 @@
+.bgbody{
+     background-color: #247AA1;
+}
+
+.imageArea img{
+     height: 400px;
+    
+     
+     
+}
+.imageArea{
+     justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.contentArea{
+     justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
